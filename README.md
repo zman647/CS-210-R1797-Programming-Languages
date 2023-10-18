@@ -1,2 +1,8 @@
 # CS-210-R1797-Programming-Languages
 C++
+1. Summarize the project and what problem it was solving? This program was used to make organization in a superstore better. It outputs stats of items sold in a day and makes it quickly and easily searchable to make a retail store have a better and quicker understanding of where to place its items in relation of closeness to the entrance.
+2. What did you do well? Personally I believe I organized the project well and used switch statements well. I also put in input validation which is necessary for making sure the user gets feedback.
+3. Where could you enhance your code? I could have added more in depth input validation and added a way to add the items into the text file from the program, instead of needing to open them and then place them. More input validation would have made it more secure.
+4. Which pieces of the code did you find most challenging to write, and how did you overcome this? The hardest to write for me were just the switch statements, making sure they were correct and organized. Learning how to use these is crucial for good menu and loop functionality.
+5. What skills from this project will be particularly transferable to other projects or course work? This project entirely focused on using detial oreinted orders from a hypothetical business to create and write from scratch. This is transferable to real life application when a programmer is asked to improve or create something using C++.
+6. How did you make this program maintainable, readable, and adaptable? I made it readable and adaptable by adding lines of notes to quickly find functionailty and also adding photos and descriptions to psuedocode so an external person could understand the code quick;y.
